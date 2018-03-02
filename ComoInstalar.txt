@@ -1,0 +1,9 @@
+instalación Realizada en Windows 10
+====================================
+
+1. Instalar Node.js para usarlo como servidor
+2. ejecutar comando en la consola: npm install -g @angular/cli
+3. ejecutar en la ubicación donde queremos guardar el proyecto:  new "nombreAplicacion"
+4. ubicarse dentro de la carpeta generada
+5. Poner a correr el servidor local: ng serve
+6. Revisar e localhost:4200
